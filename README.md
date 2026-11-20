@@ -1,7 +1,11 @@
 # BlogCabin 문서
 
+> 📌 **포트폴리오 사본** · 원본 저장소: [cabinlog1070/docs](https://github.com/cabinlog1070/docs) (커밋 기록 그대로 복사)
+> 코드: [jiwon934/blogcabin](https://github.com/jiwon934/blogcabin)
+
+
 블로그들이 모여 사는 오두막 마을, **BlogCabin(블로그캐빈)**의 문서 저장소다. 작성·관리: 정지원(jiwon934).
-코드는 따로 [`cabinlog1070/blogcabin`](https://github.com/cabinlog1070/blogcabin) 저장소에 있다.
+코드는 따로 [`jiwon934/blogcabin`](https://github.com/jiwon934/blogcabin) 저장소에 있다.
 
 | 문서 | 내용 |
 |---|---|
